@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updated": "2022-10-11",
+  "version": 6,
+  "updated": "2023-10-16",
   "towns" : [
     { 
       "name": "LVN Street Heritage",
@@ -97,6 +97,14 @@
       "source_url": "https://ow2-miniapp-initiative.github.io/poi-miniapp-implementations/gr/kos/data.json",
       "country": "Greece",
       "lang": [ "en" ]
-    }
+    },
+    { 
+      "name": "Asturias a pie",
+      "id": "asturias",
+      "location": "Asturias (🇪🇸)",
+      "source_url": "https://uo283428.github.io/AsturiasAPie/docs/sample/data.json",
+      "country": "Spain",
+      "lang": [ "es" ]
+    }    
   ]
 }
