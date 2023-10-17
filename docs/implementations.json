@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updated": "2023-10-16",
+  "version": 7,
+  "updated": "2023-10-17",
   "towns" : [
     { 
       "name": "LVN Street Heritage",
@@ -99,12 +99,12 @@
       "lang": [ "en" ]
     },
     { 
-      "name": "Asturias a pie (Asturias on foot)",
+      "name": "Asturias a pie (Asturias by foot)",
       "id": "asturias",
       "location": "Asturias (🇪🇸)",
       "source_url": "https://uo283428.github.io/AsturiasAPie/docs/sample/data.json",
       "country": "Spain",
-      "lang": [ "es" ]
+      "lang": [ "en", "es" ]
     }    
   ]
 }
